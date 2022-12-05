@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neohack22
 - 👀 I’m interested in ML Engineering
 - 🌱 I’m currently learning Analytics engineering
-- 💞️ I’m looking to collaborate on Artificial Intelligence and Datascience
+- 💞️ I’m looking to collaborate on Natural Language Processing and Analytics
 - 📫 How to reach me on [linkedin](https://www.linkedin.com/in/adoucoure/)
 
 <!---
