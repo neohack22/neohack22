@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neohack22
 - 👀 I’m interested in ML Engineering
-- 🌱 I’m currently ML engineering
+- 🌱 I’m currently a data scientist
 - 💞️ I’m looking to collaborate on Prescriptive Analytics
 - 📫 How to reach me on [linkedin](https://www.linkedin.com/in/adoucoure/)
 
